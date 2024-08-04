@@ -37,7 +37,7 @@ LibrarianCLI is an offline console-based library management system written in Ja
 2. **Build and Run:**
    ```bash
    mvn clean install
-   java -jar target/LibrarianCLI-1.0.0-jar-with-dependencies.jar
+   java -jar target/LibrarianCLI-1.0.0.jar
    ```
    
 ## Usage:
